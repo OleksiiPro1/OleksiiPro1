@@ -1,5 +1,5 @@
 <!-- BLOG-POST-LIST:START -->
-Hi! I'm Oleksii!
+Hi! I'm Oleksii!)
 
 💻 Welcome to my Github portfolio!
 
