@@ -1,7 +1,7 @@
 <!-- BLOG-POST-LIST:START -->
 Hi! I'm Oleksii!
 
-💻 Welcome to my Github portfolio!
+💻 Welcome to my Github portfolio!)
 
 👨‍💼 I'm Oleksii, Full Stack Developer from Vienna, Austria.
 
