@@ -9,5 +9,5 @@ Hi! I'm Oleksii!)
 
 🚀 I’m currently learning JavaScript, React Native, PostgresQL, React.js, next.js, Emotion, Playwright
 
-HTML CSS JS PHP GitHub Ubuntu WordPress React Next.js Material-UI PostgreSQL MySQL
+HTML | CSS | JS | PHP | GitHub | Ubuntu | WordPress | React | Next.js | Material-UI | PostgreSQL | MySQL
 <!-- BLOG-POST-LIST:END -->
